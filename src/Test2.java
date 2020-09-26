@@ -20,8 +20,8 @@ import com.amazonaws.services.s3.model.S3ObjectSummary;
 public class Test2 {
 
 
-	String accessKey = "AKIAJDDOGHFPJGNGDLMQ";
-	String secreteKey = "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";
+	String accessKey = "AWS_ACCESS_KEY";
+	String secreteKey = "AWS_SECRET_KEY";
 
 	String bucket = "nbcu-domo";
 	String fileName = "%s-data000.gz";
