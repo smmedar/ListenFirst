@@ -30,10 +30,8 @@ import freemarker.core.ParseException;
 
 public class S3Object {
 
-	//String accessKey = "AKIAI6HWRI57PCWXW7MQ";
-	//String secreteKey = "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";
-	String accessKey = "AKIAJDDOGHFPJGNGDLMQ";
-	String secreteKey = "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";
+	String accessKey = "ACCESS_KEYS";
+	String secreteKey = "SECRET_KEY";
 	static String start_date;
 
 
